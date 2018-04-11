@@ -3,11 +3,11 @@
 
 Original: https://codeforkarlsruhe.github.io/direktvermarkter
 Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
-von Stefan für Karlsruhe
+<br>von Stefan für Karlsruhe
 
 <h2>Hier die Seite für das Schnaittachtal</h2>
 
-Schnaittach: 
+<b>Schnaittach:</b> https://markus-bb.github.io/direktvermarkter/
 
 Todos: (siehe auch in Issues)
 - Unnötige Werte aus Tabelle ausblenden und den Rest sinnvoll sortieren ✓
