@@ -5,7 +5,8 @@ Original: https://codeforkarlsruhe.github.io/direktvermarkter
 Mirrow: http://stefang.cepheus.uberspace.de/farmshops/
 von Stefan für Karlsruhe
 
-Hier die Seite für das Schnaittachtal:
+<h2>Hier die Seite für das Schnaittachtal</h2>
+
 Schnaittach: 
 
 Todos: (siehe auch in Issues)
