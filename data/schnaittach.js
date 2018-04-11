@@ -1,4 +1,4 @@
-{
+var schnaittach = {
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
@@ -216,4 +216,4 @@
       "id": "node/3320028712"
     }
   ]
-}
+};
