@@ -12,7 +12,7 @@ Original: https://codeforkarlsruhe.github.io/direktvermarkter
 
 <h2>Todos</h2>
 
-(siehe auch in Issues)
+(siehe auch in <a href="https://github.com/CodeforKarlsruhe/direktvermarkter/issues">Issues-Karlsruhe</a>)
 * Unnötige Werte aus Tabelle ausblenden und den Rest sinnvoll sortieren ✓
 * Links klickbar machen ✓
 * Polygone als Punkte anzeigen ✓
