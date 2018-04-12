@@ -110,7 +110,7 @@ function popupcontent (feature, layer) {
 
 //Darstellung
 
-var geojson1 = L.geoJson(karlsruhe,{
+var geojson1 = L.geoJson(nuernberg,{
     onEachFeature: function(feature,layer){
         if (feature.geometry.type === 'Polygon') {
             console.log('Polygon detected');
