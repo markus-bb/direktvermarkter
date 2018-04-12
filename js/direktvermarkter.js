@@ -1,9 +1,9 @@
 //Karte
 
 var map = L.map('map',{
-    center: [49.52,11.24],
-    zoom: 11,
-    minZoom:2,
+    center: [49.3,11.3],
+    zoom: 10,
+    minZoom:3,
     maxZoom: 18
 });
 
